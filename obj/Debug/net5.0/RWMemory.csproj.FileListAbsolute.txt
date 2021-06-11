@@ -1,0 +1,16 @@
+C:\Users\johan\source\repos\RWMemory\RWMemory\bin\Debug\net5.0\RWMemory.exe
+C:\Users\johan\source\repos\RWMemory\RWMemory\bin\Debug\net5.0\RWMemory.deps.json
+C:\Users\johan\source\repos\RWMemory\RWMemory\bin\Debug\net5.0\RWMemory.runtimeconfig.json
+C:\Users\johan\source\repos\RWMemory\RWMemory\bin\Debug\net5.0\RWMemory.runtimeconfig.dev.json
+C:\Users\johan\source\repos\RWMemory\RWMemory\bin\Debug\net5.0\RWMemory.dll
+C:\Users\johan\source\repos\RWMemory\RWMemory\bin\Debug\net5.0\ref\RWMemory.dll
+C:\Users\johan\source\repos\RWMemory\RWMemory\bin\Debug\net5.0\RWMemory.pdb
+C:\Users\johan\source\repos\RWMemory\RWMemory\obj\Debug\net5.0\RWMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\RWMemory\RWMemory\obj\Debug\net5.0\RWMemory.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\RWMemory\RWMemory\obj\Debug\net5.0\RWMemory.AssemblyInfo.cs
+C:\Users\johan\source\repos\RWMemory\RWMemory\obj\Debug\net5.0\RWMemory.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\RWMemory\RWMemory\obj\Debug\net5.0\RWMemory.dll
+C:\Users\johan\source\repos\RWMemory\RWMemory\obj\Debug\net5.0\ref\RWMemory.dll
+C:\Users\johan\source\repos\RWMemory\RWMemory\obj\Debug\net5.0\RWMemory.pdb
+C:\Users\johan\source\repos\RWMemory\RWMemory\obj\Debug\net5.0\RWMemory.genruntimeconfig.cache
+C:\Users\johan\source\repos\RWMemory\RWMemory\obj\Debug\net5.0\RWMemory.csproj.AssemblyReference.cache
